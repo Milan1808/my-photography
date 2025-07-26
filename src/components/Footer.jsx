@@ -7,7 +7,7 @@ const Footer = () => {
       <div className="container mx-auto px-4 grid grid-cols-1 md:grid-cols-4 gap-8">
         {/* Brand Info */}
         <div className="col-span-1">
-          <Link to="/" className="text-3xl font-extrabold text-white mb-4 block">
+          <Link to="/" className="text-3xl font-extrabold text-white mb-4 block" />
             📸 Krishna Studio
           <p className="text-sm">
             Capturing life's most precious moments with passion and precision.
