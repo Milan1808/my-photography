@@ -8,8 +8,7 @@ const Footer = () => {
         {/* Brand Info */}
         <div className="col-span-1">
           <Link to="/" className="text-3xl font-extrabold text-white mb-4 block">
-            📸 PhotoPro
-          </Link>
+            📸 Krishna Studio
           <p className="text-sm">
             Capturing life's most precious moments with passion and precision.
           </p>
