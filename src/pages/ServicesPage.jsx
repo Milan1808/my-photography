@@ -17,7 +17,7 @@ const servicesData = [
     description: 'Whether it\'s a professional headshot, a vibrant family portrait, a playful child session, or a stunning couple shoot, we create personalized portraits that truly reflect personality and emotion. Our sessions are relaxed and tailored to your vision.',
     price: 'Starting from ₹15,000',
     includes: ['1-2 hour session', 'Location of your choice', '20-30 edited digital images', 'Print release'],
-    imageUrl: 'https://images.unsplash.com/photo-1557022295-d2222379ed2a?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+    imageUrl: 'https://images.pexels.com/photos/370142/pexels-photo-370142.jpeg',
   },
   {
     id: 'events',
@@ -25,7 +25,7 @@ const servicesData = [
     description: 'Capturing the energy and excitement of your special events – be it a birthday party, corporate gathering, cultural festival, or private celebration. We blend into the background to capture genuine moments and ensure you have stunning memories of your occasion.',
     price: 'Starting from ₹30,000',
     includes: ['3-4 hours coverage', 'All usable digital images', 'Online proofing gallery', 'Event highlights video (optional add-on)'],
-    imageUrl: 'https://images.unsplash.com/photo-1540202404-58bc4499d3d9?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+    imageUrl: 'https://images.pexels.com/photos/2608097/pexels-photo-2608097.jpeg',
   },
   {
     id: 'commercial',
@@ -33,7 +33,7 @@ const servicesData = [
     description: 'High-impact visuals for your business. From product photography and architectural shoots to corporate headshots and branding imagery, we help you showcase your brand professionally and effectively. Custom quotes based on project scope.',
     price: 'Custom Quote',
     includes: ['Initial consultation', 'Concept development', 'Professional lighting and equipment', 'High-resolution images with commercial license', 'Post-production editing'],
-    imageUrl: 'https://images.unsplash.com/photo-1587573679169-231a5e78a635?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
+    imageUrl: 'https://images.pexels.com/photos/4245964/pexels-photo-4245964.jpeg',
   },
 ];
 
